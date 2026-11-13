@@ -1,0 +1,1091 @@
+{
+  "status": "ready",
+  "version": 1794262089559,
+  "images": {
+    "H1": {
+      "file": "assets/H1/780cf137-e508-476c-9393-924884449581-eaf419e38da4/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 53,
+          "y": 51,
+          "width": 405,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "polished golden crown, isolated and readable",
+        "line": "H1: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"polished golden crown, isolated and readable\"",
+        "reviewedAt": "2026-11-09T19:48:28.805Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/H1/df5a586e-03c3-4831-9991-0d32fbfe64b4_0.png",
+        "sourceSha256": "8c7297e9b33decf9b0ef18c1db55993b7f7b74943b6de79991576f9fd89687fe"
+      }
+    },
+    "H2": {
+      "file": "assets/H2/180fd3fa-10b8-4f59-af72-f349d4ce859d-ff5ee9a3ca70/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 67,
+          "width": 410,
+          "height": 378
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "three money rolls, no lettering",
+        "line": "H2: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"three money rolls, no lettering\"",
+        "reviewedAt": "2026-11-09T19:48:30.258Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/H2/0a735815-eb96-4bd6-a315-455e21a1b227_0.png",
+        "sourceSha256": "27953f98cdd73bf2f3b5c5c99c9c8057128914ed4a317f8615f6c7fae105df07"
+      }
+    },
+    "H3": {
+      "file": "assets/H3/62f1b3ee-f2dc-4c58-9dfd-3cc7b6ace37b-447f5375ba5d/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 70,
+          "width": 410,
+          "height": 371
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "three coloured gems, isolated treasure cluster",
+        "line": "H3: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"three coloured gems, isolated treasure cluster\"",
+        "reviewedAt": "2026-11-09T19:48:31.587Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/H3/b867047b-65a3-4f04-af82-0f2d9e83a3a2_0.png",
+        "sourceSha256": "c14bb93f27e51847ad2bdecac166ba75680e26609078baeff13440080f52595a"
+      }
+    },
+    "H4": {
+      "file": "assets/H4/24f8bcc4-2117-478b-a659-7900aeb04379-31013aa3824c/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 86,
+          "y": 51,
+          "width": 339,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "gold trident with red grip and flame",
+        "line": "H4: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"gold trident with red grip and flame\"",
+        "reviewedAt": "2026-11-09T19:48:32.941Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/H4/6229d167-152b-4100-9be8-395a923b8a5b_0.png",
+        "sourceSha256": "04e6b5f4e88073f45896a8953dd743e5b56b70940ab8759c48ac0630bdad4c8c"
+      }
+    },
+    "A": {
+      "file": "assets/A/86b1ac3a-81a2-4dbd-98e0-02856c6bf0a5-88cf44d286b9/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 90,
+          "y": 104,
+          "width": 333,
+          "height": 305
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "A",
+        "expectedText": "A",
+        "note": "single red A",
+        "line": "A: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"A\" note=\"single red A\"",
+        "reviewedAt": "2026-11-09T19:48:33.805Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/A/3f446aa8-7fce-4412-beca-c7ce9813cbe5_0.png",
+        "sourceSha256": "2b87fd897ab965999f3bff0b73c5472c56eb8bf2c56459dd8463fb5239ea6935"
+      }
+    },
+    "K": {
+      "file": "assets/K/96cfd705-ce5b-4ee6-b45c-6ae13fbce2d0-dfe4dfe56640/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 90,
+          "y": 98,
+          "width": 333,
+          "height": 316
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "K",
+        "expectedText": "K",
+        "note": "single blue K",
+        "line": "K: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"K\" note=\"single blue K\"",
+        "reviewedAt": "2026-11-09T19:48:34.782Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/K/4900935e-70db-469b-8320-42f134e94d9b_0.png",
+        "sourceSha256": "883d57cb79ff8ef354235f672b1ff183934dc0e7652e1ca736e3b97375dbc208"
+      }
+    },
+    "Q": {
+      "file": "assets/Q/c5ea6e30-120d-4f90-bc2c-25915c9aa400-0a1fa015b128/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 98,
+          "y": 90,
+          "width": 317,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "Q",
+        "expectedText": "Q",
+        "note": "single magenta Q",
+        "line": "Q: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"Q\" note=\"single magenta Q\"",
+        "reviewedAt": "2026-11-09T19:48:35.791Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/Q/36c2f822-b8ba-47ee-a72a-4ffba7c33f3f_0.png",
+        "sourceSha256": "19efb3145191e53291dd2e51a79cc1ac53c4c4bf2312995b4b31ced8113544ba"
+      }
+    },
+    "J": {
+      "file": "assets/J/905f9688-0634-4720-b89a-5f93de573adc-fc51bfdbe1d0/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 121,
+          "y": 90,
+          "width": 271,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "J",
+        "expectedText": "J",
+        "note": "single green J",
+        "line": "J: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"J\" note=\"single green J\"",
+        "reviewedAt": "2026-11-09T19:48:36.889Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/J/accac164-887f-4059-955a-077955f8f80c_0.png",
+        "sourceSha256": "a4fa75cbe0c27ae6d3534da1284feb26298403fa4b27fea34592ed601e587d04"
+      }
+    },
+    "T": {
+      "file": "assets/T/63c95155-4ec9-4eae-8a97-8d5e0ef38780-d6348a69176e/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 98,
+          "y": 90,
+          "width": 317,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "T",
+        "expectedText": "T",
+        "note": "single orange T",
+        "line": "T: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"T\" note=\"single orange T\"",
+        "reviewedAt": "2026-11-09T19:48:37.757Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/T/d0b040bd-4e30-4014-b48d-339a17f0f9ca_0.png",
+        "sourceSha256": "1528f4c1109b6570510fd336a0506a483ebe042b0058d213a1d82a19997580a9"
+      }
+    },
+    "DV": {
+      "file": "assets/DV/b9a2d785-a700-4c4c-9b5d-0fd8aca9eca8-e0975bf1648b/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 74,
+          "y": 51,
+          "width": 363,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "cheeky red imp with gold tooth and money sack",
+        "line": "DV: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"cheeky red imp with gold tooth and money sack\"",
+        "reviewedAt": "2026-11-09T19:48:39.691Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/DV/b6ea6a3c-0701-4363-b4ab-e53d47cc927e_0.png",
+        "sourceSha256": "57273663a0604f60b55e2cb03b1196d4679b8bfe534156efa61eba785067b843"
+      }
+    },
+    "PG": {
+      "file": "assets/PG/69ff3fcf-8c98-4a1c-8941-e12ca8f8836f-ba65dbea0f22/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 53,
+          "width": 410,
+          "height": 406
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "horned winged pink piglet",
+        "line": "PG: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"horned winged pink piglet\"",
+        "reviewedAt": "2026-11-09T19:48:43.881Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/PG/55cd74b1-3edd-4af8-b9d6-f3f60190e1be_0.png",
+        "sourceSha256": "fb6ff56b38f338183440b3372d934ba46b4ef54bf0371dd07f55cb1266226caf"
+      }
+    },
+    "CELL_BG": {
+      "file": "assets/CELL_BG/1b8b7528-18b9-4c94-a321-87c979a09f7c-63c50f47e49b/image.png",
+      "kind": "cell",
+      "assetKind": "cell",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 0,
+          "y": 0,
+          "width": 512,
+          "height": 512
+        },
+        "fit": "contain"
+      },
+      "text": "CELL_BG",
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "n/a",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "low-detail crimson glow surface with gold flecks",
+        "line": "CELL_BG: subject=pass glyph=n/a spelling=n/a backing=n/a frame=n/a bakedText=pass note=\"low-detail crimson glow surface with gold flecks\"",
+        "reviewedAt": "2026-11-09T19:48:45.209Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/CELL_BG/b0504995-ac2f-4bdc-a68a-b471cb623566_0.png",
+        "sourceSha256": "234537efbd7972f79781e7d7021381dfc2044c592a16ce14667e99a84e0f72a8"
+      }
+    },
+    "TITLE": {
+      "file": "assets/TITLE/6e531e86-be48-4bc1-9422-9d6a4e56b685-81f2776590b8/image.png",
+      "kind": "overlay",
+      "assetKind": "title",
+      "w": 1600,
+      "h": 896,
+      "placement": {
+        "canvas": {
+          "width": 1600,
+          "height": 896
+        },
+        "ink": {
+          "x": 25,
+          "y": 24,
+          "width": 1540,
+          "height": 821
+        },
+        "fit": "contain"
+      },
+      "text": "DEVIL'S LOCK",
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "DEVIL'S LOCK",
+        "expectedText": "DEVIL'S LOCK",
+        "note": "exact two-line title, isolated lettering",
+        "line": "TITLE: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"DEVIL'S LOCK\" note=\"exact two-line title, isolated lettering\"",
+        "reviewedAt": "2026-11-09T19:48:46.172Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/TITLE/fadee12e-4e53-47b6-ad19-315f9faf4b0c_0.png",
+        "sourceSha256": "ffcc4555d0fabdb7f03c25c3927d64b5a1b09d18aa9958047642917250d38b4f"
+      }
+    },
+    "BG": {
+      "file": "assets/BG/a3866d94-b9fa-4247-9c8d-b32ef6afdb91-6a64cd551e8c/image.png",
+      "kind": "background",
+      "assetKind": "background",
+      "w": 900,
+      "h": 1600,
+      "placement": {
+        "canvas": {
+          "width": 900,
+          "height": 1600
+        },
+        "ink": {
+          "x": 0,
+          "y": 0,
+          "width": 900,
+          "height": 1600
+        },
+        "fit": "contain"
+      },
+      "modes": [
+        "base",
+        "mini-pigs",
+        "free"
+      ],
+      "orientation": "portrait",
+      "text": "BG",
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "n/a",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "none",
+        "expectedText": "none",
+        "note": "soft portrait flame haze with quiet dark centre, diffuse edge glow, and no lettering",
+        "line": "BG: subject=pass glyph=n/a spelling=n/a backing=n/a frame=n/a bakedText=pass reads=none note=\"soft portrait flame haze with quiet dark centre, diffuse edge glow, and no lettering\"",
+        "reviewedAt": "2026-11-09T19:48:47.222Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/BG-FLAME-HAZE/0621963e-7ed9-4a9d-846f-924f80c10f0c_0.png",
+        "sourceSha256": "c9aca0daead64ce07a4316c8b303235462c51eebe5a53e3f8a16ffc0c68d03a5"
+      }
+    },
+    "PIG_METER": {
+      "file": "assets/PIG_METER/0f24403d-bee7-4bcd-97d8-139f6e291d66-e3b56412ea07/image.png",
+      "kind": "overlay",
+      "assetKind": "overlay",
+      "w": 1024,
+      "h": 768,
+      "placement": {
+        "canvas": {
+          "width": 1024,
+          "height": 768
+        },
+        "ink": {
+          "x": 51,
+          "y": 9,
+          "width": 882,
+          "height": 733
+        },
+        "fit": "contain"
+      },
+      "text": "PIG_METER",
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete pink porcelain devil pig bank",
+        "line": "PIG_METER: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete pink porcelain devil pig bank\"",
+        "reviewedAt": "2026-11-09T19:48:49.613Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/PIG_METER/e87821b7-adf9-4077-aea7-16e5945fbe15_0.png",
+        "sourceSha256": "832042119bfd4b464eef5ca5fb3295e1e86393ba2be627bb9111554377364334"
+      }
+    },
+    "CN": {
+      "file": "assets/CN/77d6ff31-cd3c-4e52-9339-ed6fa9cbdb21-7cc02fe6121e/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 62,
+          "y": 51,
+          "width": 388,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "isolationOverride": {
+        "reason": "The circular rail is the cash coin's own rim and was visually reviewed as part of the isolated subject, not a symbol frame.",
+        "acceptedAt": "2026-11-09T19:49:03.379Z",
+        "sourceSha256": "fa9f7fad44041bc0872ed31e789542164cb65f8b65e91879d1be899f125ae905",
+        "measured": {
+          "profile": "pictorial",
+          "subjectType": "object",
+          "failed": [
+            "rails"
+          ],
+          "frameLike": true,
+          "panelLike": false,
+          "alphaCoverage": 0.6485,
+          "intersectionCoverage": 1,
+          "cornerCoverage": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rails": {
+            "top": 0.792,
+            "bottom": 0.7646,
+            "left": 0.8652,
+            "right": 0.8516
+          },
+          "thresholds": {
+            "rail": 0.72,
+            "intersection": 0.35,
+            "separation": 0.5,
+            "cellFill": 0.85,
+            "cornerFill": 0.72,
+            "corner": 0.55,
+            "corners": 3
+          }
+        }
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "isolated round cash coin; circular rim is part of the subject",
+        "line": "CN: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"isolated round cash coin; circular rim is part of the subject\"",
+        "reviewedAt": "2026-11-09T19:49:02.704Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/CN/d49d2760-6964-4573-97a6-d6801289966e_0.png",
+        "sourceSha256": "fa9f7fad44041bc0872ed31e789542164cb65f8b65e91879d1be899f125ae905"
+      }
+    },
+    "JP": {
+      "file": "assets/JP/0566ce73-1f35-466f-99d6-ff999bdb6bee-25f5edb738bf/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 52,
+          "width": 410,
+          "height": 408
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "isolationOverride": {
+        "reason": "The circular rail is the jackpot coin's own rim and was visually reviewed as part of the isolated subject, not a symbol frame.",
+        "acceptedAt": "2026-11-09T19:49:05.434Z",
+        "sourceSha256": "20f1b7851fd47100be918c1174bf84a2d477e5e685b864ccd74131501f4d211d",
+        "measured": {
+          "profile": "pictorial",
+          "subjectType": "object",
+          "failed": [
+            "rails"
+          ],
+          "frameLike": true,
+          "panelLike": false,
+          "alphaCoverage": 0.7209,
+          "intersectionCoverage": 1,
+          "cornerCoverage": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rails": {
+            "top": 0.8232,
+            "bottom": 0.8174,
+            "left": 0.8145,
+            "right": 0.8145
+          },
+          "thresholds": {
+            "rail": 0.72,
+            "intersection": 0.35,
+            "separation": 0.5,
+            "cellFill": 0.85,
+            "cornerFill": 0.72,
+            "corner": 0.55,
+            "corners": 3
+          }
+        }
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "isolated round jackpot coin; circular rim is part of the subject",
+        "line": "JP: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"isolated round jackpot coin; circular rim is part of the subject\"",
+        "reviewedAt": "2026-11-09T19:49:04.722Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/JP/41d042a3-afd5-47aa-b605-f97f1415cfb9_0.png",
+        "sourceSha256": "20f1b7851fd47100be918c1174bf84a2d477e5e685b864ccd74131501f4d211d"
+      }
+    },
+    "NINE": {
+      "file": "assets/NINE/43a21ab3-6fc3-43b2-9044-48c2119e2d21-3a1848c65dce/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 133,
+          "y": 90,
+          "width": 247,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "isolationOverride": {
+        "reason": "The thick standalone 9 glyph was visually reviewed as isolated lettering; the measured backing fill belongs to the glyph, not a backing panel.",
+        "acceptedAt": "2026-11-09T19:49:01.573Z",
+        "sourceSha256": "48c4ccc61d8386e2581246f1ca5d8045c084bd84df8a2051c9a47989913ae946",
+        "measured": {
+          "profile": "letterform",
+          "subjectType": "rank",
+          "failed": [
+            "backingFill"
+          ],
+          "frameLike": false,
+          "panelLike": true,
+          "alphaCoverage": 0.4018,
+          "intersectionCoverage": 0.928,
+          "cornerCoverage": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rails": {
+            "top": 0.5361,
+            "bottom": 0.5254,
+            "left": 0.5088,
+            "right": 0.54
+          },
+          "backingFill": 0.9917,
+          "boxRails": {
+            "top": 0.6184,
+            "bottom": 0.625,
+            "left": 0.55,
+            "right": 0.6134
+          },
+          "thresholds": {
+            "cellFill": 0.85,
+            "backingFill": 0.99,
+            "boxRail": 0.92,
+            "band": 0.06,
+            "inset": 0.06,
+            "span": 0.5
+          }
+        }
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "9",
+        "expectedText": "9",
+        "note": "single turquoise 9; thick glyph is not a backing panel",
+        "line": "NINE: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"9\" note=\"single turquoise 9; thick glyph is not a backing panel\"",
+        "reviewedAt": "2026-11-09T19:49:01.035Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/9/897ecdef-729c-458a-899c-ce677b5505b2_0.png",
+        "sourceSha256": "48c4ccc61d8386e2581246f1ca5d8045c084bd84df8a2051c9a47989913ae946"
+      }
+    },
+    "REEL_FRAME": {
+      "file": "assets/REEL_FRAME/1028f8c6-0278-4f84-9a6f-de28536e1be2-536cd2a00c2c/image.png",
+      "kind": "overlay",
+      "assetKind": "reel-frame",
+      "w": 1024,
+      "h": 679,
+      "placement": {
+        "canvas": {
+          "width": 1024,
+          "height": 679
+        },
+        "ink": {
+          "x": 12,
+          "y": 12,
+          "width": 1002,
+          "height": 635
+        },
+        "opening": {
+          "x": 137,
+          "y": 131,
+          "width": 753,
+          "height": 425
+        },
+        "fit": "contain"
+      },
+      "geometry": {
+        "width": 1024,
+        "height": 679,
+        "opening": {
+          "x": 137,
+          "y": 131,
+          "width": 753,
+          "height": 425
+        },
+        "outer": {
+          "x": 12,
+          "y": 12,
+          "width": 1002,
+          "height": 635
+        }
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "n/a",
+          "frame": "pass",
+          "bakedText": "pass"
+        },
+        "note": "uncropped centre horns retain visible top clearance; complete frame and clean opening",
+        "line": "REEL_FRAME: subject=n/a glyph=n/a spelling=n/a backing=n/a frame=pass bakedText=pass note=\"uncropped centre horns retain visible top clearance; complete frame and clean opening\"",
+        "reviewedAt": "2026-11-09T19:48:45.791Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct/REEL_FRAME_PORTRAIT_FIX/geometry-repair.png",
+        "sourceSha256": "fa7c8a90dba373d4418265857377cb7f5512fc2c74bc4f067938ff8e8e566559"
+      }
+    },
+    "DV_COLLECT": {
+      "file": "DV_COLLECT-1794262088493-59098.png",
+      "kind": "anim",
+      "of": "DV",
+      "state": "collect",
+      "recipe": "pose",
+      "w": 256,
+      "h": 256,
+      "cols": 4,
+      "rows": 4,
+      "frames": 16,
+      "fps": 12,
+      "loop": false,
+      "pingpong": true,
+      "fadeIn": 0
+    }
+  }
+}
